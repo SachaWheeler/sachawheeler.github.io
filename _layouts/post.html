@@ -6,9 +6,9 @@ layout: default
     <h1>{{ page.title }} by {{ page.author }}</h1>
 
   <div class="entry">
-      {% if page.summary %}
-        {{ page.summary }}
-      {% endif %}
+      <div class="summary">
+      {% if page.summary %} {{ page.summary }} {% endif %}
+      </div>
 
       {% if page.link and page.image %}
       <p><a href="{{ page.link }}"><img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}"></a></p>
@@ -16,18 +16,17 @@ layout: default
 
     {{ content }}
 
-    {% if page.review %}
-        {{ page.review }}
-    {% endif %}
+    <div class="review">
+    {% if page.review %} {{ page.review }} {% endif %}
+    </div>
 
-    {% if page.rating %}
-        {{ page.rating }}/5
-    {% endif %}
+    <div class="rating">
+    {% if page.rating %} {{ page.rating }}/5 {% endif %}
+    </div>
   </div>
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% include disqus.html %}
 </article>
