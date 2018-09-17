@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: project
 title: Arduino Candle
 image: https://i.imgflip.com/qlrhv.gif
 summary: A digital candle using and Arduino and 8x8 led matrics.
 ---
 
-## Why
 I saw a beautiful LED candle at the Museum of Modern Art (New York) and wanted one. How difficult could it be with an Arduino?
 
 ![LED candle inspiration](https://j.gifs.com/ygq8LA.gif)
