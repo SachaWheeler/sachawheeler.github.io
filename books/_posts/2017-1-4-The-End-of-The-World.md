@@ -7,7 +7,7 @@ image: https://images.gr-assets.com/books/1479822472l/17608396.jpg
 author: Geoffrey Dennis
 rating: 5
 date: Wed, 04 Jan 2017
-summary: A self-published book from 1930 enumarating the various ways the world might end.
+summary: A self-published book from 1930 enumerating the various ways the world might end.
 review: This is my favourite literary discovery. I found it in a library in Albuquerque, New Mexico
     in 1993 and have since scoured second-hand shops and libarries for copies. I have 12
     and give them to people who I really, really like. In a sad epilogue, Dennis wrote a

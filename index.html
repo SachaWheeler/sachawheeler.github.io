@@ -2,22 +2,39 @@
 layout: default
 ---
 
+<style>
+.left{
+    float: left;
+    width: 12%;
+    overflow: hidden;
+}
+.right {
+  overflow: hidden;
+      padding-left: 20px;
+}
+</style>
+
 <div class="posts">
-  {% for post in site.posts %}
+    {% for post in site.posts %}
     <article class="post">
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      {% if post.author %}<h4>by {{ post.author }}</h4>{% endif %}
+        <div class="left">
+            <img src="{{ post.image }}">
+        </div>
+        <div class="right">
+        {% if post.author %}<h4>by {{ post.author }}</h4>{% endif %}
 
-      <div class="entry">
-        {% if post.summary %}
-            {{ post.summary }}
-        {% else %}
-            {{ post.excerpt }}
-        {% endif %}
-      </div>
+            <div class="entry">
+            {% if post.summary %}
+                {{ post.summary }}
+            {% else %}
+                {{ post.excerpt }}
+            {% endif %}
+            </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        </div>
     </article>
   {% endfor %}
 </div>
