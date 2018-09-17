@@ -8,11 +8,9 @@ summary: A digital candle using and Arduino and 8x8 led matrics.
 ## Why
 I saw a beautiful LED candle at the Museum of Modern Art (New York) and wanted one. How difficult could it be with an Arduino?
 
-LED candle (inspiration)
-
 ![LED candle inspiration](https://j.gifs.com/ygq8LA.gif)
 
-Get a video
+## Get a video
 
 I probably could have shot something myself, but I did a search and found this on youtube 
 ![](https://j.gifs.com/Kz8JGP.gif)
@@ -117,10 +115,11 @@ B00000000,  B00110000,  B00110000,  B00110000,  B00111000,  B00111000,  B0011100
 { // images/image-005.png
 B00100000,  B01110000,  B00110000,  B00111000,  B00111000,  B00111000,  B00111000,  B00000000},
 ```
-The Code
+
+## The Code
 Arduino Code(https://github.com/SachaWheeler/ArduinoLEDCandle)
 
-The hardware
+## The hardware
 Pretty simple this time. Wired up at the pub. 
 ![](https://pbs.twimg.com/media/CN-mWcDWwAAjnTS.jpg)
 
