@@ -8,7 +8,8 @@ author: Rachel Kushner
 rating: 4
 date: Sun, 16 Sep 2018
 summary: A female prisoner faces her future
-review: Not easy, or fun, but compelling. We don't like the characters, but they find their way into our sympathies.
+review: Challenging, but compelling. We don't always like the characters, but they find their way into our sympathies and
+    and beautifully constructed. Excellent.
 ---
 
 
