@@ -117,7 +117,7 @@ B00100000,  B01110000,  B00110000,  B00111000,  B00111000,  B00111000,  B0011100
 ```
 
 ## The Code
-Arduino Code(https://github.com/SachaWheeler/ArduinoLEDCandle)
+[Arduino Code](https://github.com/SachaWheeler/ArduinoLEDCandle)
 
 ## The hardware
 Pretty simple this time. Wired up at the pub. 
