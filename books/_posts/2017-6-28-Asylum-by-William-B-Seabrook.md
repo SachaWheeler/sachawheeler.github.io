@@ -8,7 +8,7 @@ author: William B. Seabrook
 rating: 5
 date: Wed, 28 Jun 2017
 summary: A drunk writer goes to rehab in the 50s
-review: A briliant insight into alcoholism and recovery, with just enough 'noir' to keep it interesrting.
+review: A brilliant insight into alcoholism and recovery, with just enough 'noir' to keep it interesrting.
 ---
 
 

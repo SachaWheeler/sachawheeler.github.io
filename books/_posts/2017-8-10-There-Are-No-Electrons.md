@@ -7,7 +7,7 @@ image: https://images.gr-assets.com/books/1347583604l/304551.jpg
 author: Kenn Amdahl
 rating: 5
 date: Thu, 10 Aug 2017
-summary: A explanation of electricity priciples.
+summary: A explanation of electricity principles.
 review: a charming, informative and amusing analysis on electricity.
 ---
 
