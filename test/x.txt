@@ -1,0 +1,1198 @@
+---
+layout: post
+categories: books
+title: The Mars Room
+link: https://www.goodreads.com/review/show/2428713195?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1527339537l/35610824.jpg
+author: Rachel Kushner
+rating: 4
+date: Sun, 16 Sep 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Pick-Up
+link: https://www.goodreads.com/review/show/2474211428?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1477400335l/20353.jpg
+author: Charles Willeford
+rating: 4
+date: Sun, 16 Sep 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Macbett
+link: https://www.goodreads.com/review/show/2477076770?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1178962474l/860322.jpg
+author: EugÃ¨ne Ionesco
+rating: 4
+date: Sun, 16 Sep 2018
+---
+
+
+---
+layout: post
+categories: books
+title: The Driver&apos;s Seat
+link: https://www.goodreads.com/review/show/2509374320?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1348828782l/668282.jpg
+author: Muriel Spark
+rating: 3
+date: Sun, 16 Sep 2018
+---
+
+
+---
+layout: post
+categories: books
+title: The Prime of Miss Jean Brodie
+link: https://www.goodreads.com/review/show/2506701794?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1379598918l/517188.jpg
+author: Muriel Spark
+rating: 4
+date: Sun, 16 Sep 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Woman World
+link: https://www.goodreads.com/review/show/2530684532?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1518372475l/38122416.jpg
+author: Aminder Dhaliwal
+rating: 3
+date: Sat, 15 Sep 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Stone Mattress: Nine Wicked Tales
+link: https://www.goodreads.com/review/show/2410553262?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1468082943l/25833358.jpg
+author: Margaret Atwood
+rating: 4
+date: Mon, 10 Sep 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Rhinoceros / The Chairs / The Lesson
+link: https://www.goodreads.com/review/show/1705645463?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1429134486l/12096.jpg
+author: EugÃ¨ne Ionesco
+rating: 4
+date: Sun, 19 Aug 2018
+---
+
+
+---
+layout: post
+categories: books
+title: GÃ¶del, Escher, Bach: An Eternal Golden Braid
+link: https://www.goodreads.com/review/show/2495887720?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1428732588l/24113.jpg
+author: Douglas R. Hofstadter
+rating: 5
+date: Thu, 16 Aug 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Charles Willeford Omnibus: Pick Up/Burnt Orange Heresy/Cockfighter 
+link: https://www.goodreads.com/review/show/2478468882?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1408938532l/217.jpg
+author: Charles Willeford
+rating: 4
+date: Mon, 13 Aug 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Gone with the Mind
+link: https://www.goodreads.com/review/show/1786817551?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1451861938l/25861114.jpg
+author: Mark Leyner
+rating: 0
+date: Tue, 05 Jun 2018
+---
+
+
+---
+layout: post
+categories: books
+title: One Day in the Life of Ivan Denisovich
+link: https://www.goodreads.com/review/show/2414964790?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1401870722l/852538.jpg
+author: Aleksandr Solzhenitsyn
+rating: 5
+date: Tue, 05 Jun 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Hag-Seed
+link: https://www.goodreads.com/review/show/2400372987?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1501503289l/32863370.jpg
+author: Margaret Atwood
+rating: 5
+date: Wed, 23 May 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Dangerous Visions
+link: https://www.goodreads.com/review/show/2364583017?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1362005615l/10812224.jpg
+author: Harlan Ellison
+rating: 3
+date: Tue, 17 Apr 2018
+---
+
+
+---
+layout: post
+categories: books
+title: My Favorite Thing Is Monsters, Vol. 1 (My Favorite Thing Is Monsters, #1)
+link: https://www.goodreads.com/review/show/2280449822?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1471633077l/29069374.jpg
+author: Emil Ferris
+rating: 5
+date: Thu, 01 Feb 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Up West
+link: https://www.goodreads.com/review/show/2253253709?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1482176830l/33512883.jpg
+author: David   Solomons
+rating: 5
+date: Thu, 11 Jan 2018
+---
+
+
+---
+layout: post
+categories: books
+title: Cows, Pigs, Wars, and Witches: The Riddles of Culture
+link: https://www.goodreads.com/review/show/2223808355?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1388288268l/60653.jpg
+author: Marvin Harris
+rating: 5
+date: Sun, 24 Dec 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Calculus for Cats
+link: https://www.goodreads.com/review/show/2184844498?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1347575087l/1390233.jpg
+author: Kenn Amdahl
+rating: 3
+date: Wed, 15 Nov 2017
+---
+
+
+---
+layout: post
+categories: books
+title: What the Hell Did I Just Read
+link: https://www.goodreads.com/review/show/2143358473?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1506368410l/36303804.jpg
+author: David  Wong
+rating: 0
+date: Sat, 04 Nov 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Vacationland: True Stories from Painful Beaches
+link: https://www.goodreads.com/review/show/2172724812?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1498853505l/34426784.jpg
+author: John Hodgman
+rating: 4
+date: Fri, 03 Nov 2017
+---
+
+
+---
+layout: post
+categories: books
+title: The Postmortal
+link: https://www.goodreads.com/review/show/2172724661?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1311702649l/10673576.jpg
+author: Drew Magary
+rating: 4
+date: Fri, 03 Nov 2017
+---
+
+
+---
+layout: post
+categories: books
+title: The Power
+link: https://www.goodreads.com/review/show/2148971829?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1462814013l/29751398.jpg
+author: Naomi Alderman
+rating: 4
+date: Mon, 16 Oct 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Our Kind: Who We Are, Where We Came From, Where We Are Going
+link: https://www.goodreads.com/review/show/2103356748?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1386921535l/60654.jpg
+author: Marvin Harris
+rating: 5
+date: Tue, 03 Oct 2017
+---
+
+
+---
+layout: post
+categories: books
+title: The Botany of Desire: A Plant's Eye View of the World
+link: https://www.goodreads.com/review/show/2133398186?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1433638818l/18671.jpg
+author: Michael Pollan
+rating: 5
+date: Sun, 24 Sep 2017
+---
+
+
+---
+layout: post
+categories: books
+title: The Incal
+link: https://www.goodreads.com/review/show/2125528611?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1440908707l/26190565.jpg
+author: Alejandro Jodorowsky
+rating: 4
+date: Sat, 16 Sep 2017
+---
+
+
+---
+layout: post
+categories: books
+title: GalÃ¡pagos
+link: https://www.goodreads.com/review/show/2116823577?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1347347598l/168663.jpg
+author: Kurt Vonnegut
+rating: 4
+date: Fri, 08 Sep 2017
+---
+
+
+---
+layout: post
+categories: books
+title: The Glass Key
+link: https://www.goodreads.com/review/show/2109304143?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1347759785l/761573.jpg
+author: Dashiell Hammett
+rating: 4
+date: Thu, 31 Aug 2017
+---
+
+
+---
+layout: post
+categories: books
+title: There Are No Electrons: Electronics for Earthlings
+link: https://www.goodreads.com/review/show/2059732118?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1347583604l/304551.jpg
+author: Kenn Amdahl
+rating: 5
+date: Thu, 10 Aug 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Dead Writers in Rehab
+link: https://www.goodreads.com/review/show/1999024590?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1505778122l/31850340.jpg
+author: Paul Bassett Davies
+rating: 4
+date: Thu, 10 Aug 2017
+---
+
+
+---
+layout: post
+categories: books
+title: God Is Disappointed in You
+link: https://www.goodreads.com/review/show/2043794883?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1375480004l/17689005.jpg
+author: Mark   Russell
+rating: 4
+date: Wed, 19 Jul 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Mortal Engines
+link: https://www.goodreads.com/review/show/1907866743?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1462920838l/29847087.jpg
+author: StanisÅ‚aw Lem
+rating: 5
+date: Wed, 19 Jul 2017
+---
+
+
+---
+layout: post
+categories: books
+title: American Gods
+link: https://www.goodreads.com/review/show/1999023590?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1478196549l/31199020.jpg
+author: Neil Gaiman
+rating: 4
+date: Wed, 19 Jul 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Two Scoops of Django: Best Practices for Django 1.8
+link: https://www.goodreads.com/review/show/1704836129?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1442342556l/25653602.jpg
+author: Daniel roy Greenfeld
+rating: 5
+date: Tue, 18 Jul 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Asylum
+link: https://www.goodreads.com/review/show/1893644301?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1398181129l/3411302.jpg
+author: William B. Seabrook
+rating: 5
+date: Wed, 28 Jun 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Briggs Land, Vol. 1: State of Grace
+link: https://www.goodreads.com/review/show/1999024118?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1470270733l/31345732.jpg
+author: Brian Wood
+rating: 4
+date: Sat, 13 May 2017
+---
+
+
+---
+layout: post
+categories: books
+title: The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+link: https://www.goodreads.com/review/show/1902279103?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1465761873l/28259130.jpg
+author: Mark Manson
+rating: 4
+date: Mon, 06 Feb 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Reasons and Persons
+link: https://www.goodreads.com/review/show/1893652585?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1348967787l/327051.jpg
+author: Derek Parfit
+rating: 4
+date: Fri, 27 Jan 2017
+---
+
+
+---
+layout: post
+categories: books
+title: The Dead Boy Detectives
+link: https://www.goodreads.com/review/show/1805553509?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1348884375l/2297296.jpg
+author: Ed Brubaker
+rating: 4
+date: Thu, 12 Jan 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Introducing Fractal Geometry
+link: https://www.goodreads.com/review/show/1705645776?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1212934654l/3408337.jpg
+author: Nigel Lesmoir-Gordon
+rating: 2
+date: Mon, 09 Jan 2017
+---
+
+
+---
+layout: post
+categories: books
+title: The End of the World
+link: https://www.goodreads.com/review/show/1865267758?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1479822472l/17608396.jpg
+author: Geoffrey Dennis
+rating: 5
+date: Wed, 04 Jan 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Thank You for Being Late: An Optimist's Guide to Thriving in the Age of Accelerations
+link: https://www.goodreads.com/review/show/1865246566?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1471282440l/26114127.jpg
+author: Thomas L. Friedman
+rating: 4
+date: Wed, 04 Jan 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Time Travel: A History
+link: https://www.goodreads.com/review/show/1842538141?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1472314681l/28587584.jpg
+author: James Gleick
+rating: 5
+date: Mon, 02 Jan 2017
+---
+
+
+---
+layout: post
+categories: books
+title: Paper Girls, Vol. 1 (Paper Girls, #1)
+link: https://www.goodreads.com/review/show/1842803743?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1506952499l/28204534.jpg
+author: Brian K. Vaughan
+rating: 5
+date: Sun, 18 Dec 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Vision, Volume 1: Little Worse Than A Man
+link: https://www.goodreads.com/review/show/1842537420?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1466479787l/27163019.jpg
+author: Tom King
+rating: 4
+date: Sun, 18 Dec 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Paradoxical Undressing
+link: https://www.goodreads.com/review/show/1831459460?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1328628190l/10109259.jpg
+author: Kristin Hersh
+rating: 5
+date: Tue, 06 Dec 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Don't Suck, Don't Die: Giving Up Vic Chesnutt
+link: https://www.goodreads.com/review/show/1831459392?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1435935596l/25788901.jpg
+author: Kristin Hersh
+rating: 4
+date: Tue, 06 Dec 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Principia: Mathematical Principles of Natural Philosophy
+link: https://www.goodreads.com/review/show/1831379921?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1386924124l/231083.jpg
+author: Isaac Newton
+rating: 4
+date: Tue, 06 Dec 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Critique of Pure Reason
+link: https://www.goodreads.com/review/show/1831379529?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1348663530l/18288.jpg
+author: Immanuel Kant
+rating: 4
+date: Tue, 06 Dec 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Wyatt at the Coyote Palace
+link: https://www.goodreads.com/review/show/1822149763?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1456514280l/29075466.jpg
+author: Kristin Hersh
+rating: 5
+date: Sat, 26 Nov 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Mind-Gut Connection: How the Astonishing Dialogue Taking Place in Our Bodies Impacts Health, Weight, and Mood
+link: https://www.goodreads.com/review/show/1791007250?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1455502039l/24700355.jpg
+author: Emeran Mayer
+rating: 3
+date: Wed, 23 Nov 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Lucifer, Book Five (Lucifer, #5)
+link: https://www.goodreads.com/review/show/1705643661?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1418078954l/21855289.jpg
+author: Mike Carey
+rating: 4
+date: Fri, 18 Nov 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Lucifer, Book Four (Lucifer, #4)
+link: https://www.goodreads.com/review/show/1705643649?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1401379717l/18369686.jpg
+author: Mike Carey
+rating: 5
+date: Wed, 16 Nov 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Dead Boy Detectives, Volume 1: Schoolboy Terrors
+link: https://www.goodreads.com/review/show/1805553520?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1403303524l/20697505.jpg
+author: Toby Litt
+rating: 4
+date: Wed, 16 Nov 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Lucifer, Book Three (Lucifer, #3)
+link: https://www.goodreads.com/review/show/1705643673?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1390402474l/18361506.jpg
+author: Mike Carey
+rating: 4
+date: Fri, 11 Nov 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Death
+link: https://www.goodreads.com/review/show/1805023615?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1390179629l/18373343.jpg
+author: Neil Gaiman
+rating: 2
+date: Wed, 09 Nov 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Lucifer, Book Two (Lucifer, #2)
+link: https://www.goodreads.com/review/show/1705643695?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1372301405l/17671938.jpg
+author: Mike Carey
+rating: 5
+date: Mon, 07 Nov 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Lucifer, Book One (Lucifer, #1)
+link: https://www.goodreads.com/review/show/1705643705?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1369016441l/17137616.jpg
+author: Mike Carey
+rating: 4
+date: Tue, 01 Nov 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Wake (The Sandman, #10)
+link: https://www.goodreads.com/review/show/1786817584?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1344372001l/13533747.jpg
+author: Neil Gaiman
+rating: 5
+date: Tue, 25 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Kindly Ones (The Sandman, #9)
+link: https://www.goodreads.com/review/show/1768335245?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1339922887l/71252.jpg
+author: Neil Gaiman
+rating: 5
+date: Sat, 22 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Goliath
+link: https://www.goodreads.com/review/show/1705645186?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1316639956l/12172226.jpg
+author: Tom Gauld
+rating: 5
+date: Mon, 17 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Vagina: A New Biography
+link: https://www.goodreads.com/review/show/1785834828?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1355828572l/13426037.jpg
+author: Naomi Wolf
+rating: 0
+date: Sun, 16 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: World&apos;s End (The Sandman, #8)
+link: https://www.goodreads.com/review/show/1768335215?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1339922260l/25103.jpg
+author: Neil Gaiman
+rating: 5
+date: Fri, 14 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Brief Lives (The Sandman, #7)
+link: https://www.goodreads.com/review/show/1768335148?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1339922078l/25105.jpg
+author: Neil Gaiman
+rating: 0
+date: Thu, 13 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Fables & Reflections (The Sandman, #6)
+link: https://www.goodreads.com/review/show/1768335121?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1311961999l/25106.jpg
+author: Neil Gaiman
+rating: 5
+date: Mon, 10 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: A Game of You (The Sandman, #5)
+link: https://www.goodreads.com/review/show/1768335103?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1312279891l/25102.jpg
+author: Neil Gaiman
+rating: 0
+date: Sun, 09 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Algorithms to Live By: The Computer Science of Human Decisions
+link: https://www.goodreads.com/review/show/1777563087?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1462401688l/30111553.jpg
+author: Brian Christian
+rating: 3
+date: Sat, 08 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Season of Mists (The Sandman, #4)
+link: https://www.goodreads.com/review/show/1768335059?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1327937313l/25101.jpg
+author: Neil Gaiman
+rating: 4
+date: Sat, 08 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Dream Country (The Sandman, #3)
+link: https://www.goodreads.com/review/show/1768335026?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1402485052l/25100.jpg
+author: Neil Gaiman
+rating: 5
+date: Sun, 02 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Sandman, Vol. 2: The Doll's House (The Sandman, #2)
+link: https://www.goodreads.com/review/show/1768334975?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1298566119l/25099.jpg
+author: Neil Gaiman
+rating: 5
+date: Sun, 02 Oct 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Galatea 2.2
+link: https://www.goodreads.com/review/show/1704836191?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1442696557l/23001.jpg
+author: Richard Powers
+rating: 0
+date: Fri, 30 Sep 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Sandman: Overture
+link: https://www.goodreads.com/review/show/1767675585?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1444878181l/18310944.jpg
+author: Neil Gaiman
+rating: 5
+date: Sun, 25 Sep 2016
+---
+
+
+---
+layout: post
+categories: books
+title: You Took the Last Bus Home: The Poems of Brian Bilston
+link: https://www.goodreads.com/review/show/1765972133?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1471004349l/29537164.jpg
+author: Brian Bilston
+rating: 5
+date: Fri, 23 Sep 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Poetry Notebook: Reflections on the Intensity of Language
+link: https://www.goodreads.com/review/show/1705644122?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1422215223l/22273085.jpg
+author: Clive James
+rating: 4
+date: Sun, 18 Sep 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Girl in a Band: A Memoir
+link: https://www.goodreads.com/review/show/1705644162?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1425752905l/25093271.jpg
+author: Kim Gordon
+rating: 0
+date: Tue, 13 Sep 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Hi I'm a Social Disease: Horror Stories
+link: https://www.goodreads.com/review/show/1705644888?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1327179274l/12157892.jpg
+author: Andersen Prunty
+rating: 3
+date: Fri, 09 Sep 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Perfectly Reasonable Deviations from the Beaten Track: The Letters of Richard P. Feynman
+link: https://www.goodreads.com/review/show/1705644070?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1348044468l/223459.jpg
+author: Richard Feynman
+rating: 5
+date: Thu, 01 Sep 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The First Bad Man
+link: https://www.goodreads.com/review/show/1705644165?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1451506427l/28401128.jpg
+author: Miranda July
+rating: 4
+date: Sun, 07 Aug 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Stone Junction
+link: https://www.goodreads.com/review/show/1710437190?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1320497628l/11961609.jpg
+author: Jim Dodge
+rating: 5
+date: Wed, 27 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Don&apos;t Point That Thing At Me
+link: https://www.goodreads.com/review/show/1710437178?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1400596106l/22232678.jpg
+author: Kyril Bonfiglioli
+rating: 3
+date: Wed, 27 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Tetherballs of Bougainville
+link: https://www.goodreads.com/review/show/1705646450?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1320548702l/131527.jpg
+author: Mark Leyner
+rating: 4
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Easy Riders, Raging Bulls: How The Sex Drugs And Rock 'N' Roll Generation Saved Hollywood
+link: https://www.goodreads.com/review/show/1705646413?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1408928006l/1070271.jpg
+author: Peter Biskind
+rating: 4
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Gates of Eden
+link: https://www.goodreads.com/review/show/1705646400?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1213876503l/2449731.jpg
+author: Ethan Coen
+rating: 3
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Survivor
+link: https://www.goodreads.com/review/show/1705646316?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1328797636l/842996.jpg
+author: Chuck Palahniuk
+rating: 3
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Snow Crash
+link: https://www.goodreads.com/review/show/1705646197?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1327902160l/877974.jpg
+author: Neal Stephenson
+rating: 3
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Master and Margarita
+link: https://www.goodreads.com/review/show/1705646186?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1528994468l/113197.jpg
+author: Mikhail Bulgakov
+rating: 4
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Swarm Intelligence: From Natural to Artificial Systems
+link: https://www.goodreads.com/review/show/1705646164?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1389377459l/605045.jpg
+author: Eric Bonabeau
+rating: 4
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Jimmy Corrigan: The Smartest Kid on Earth
+link: https://www.goodreads.com/review/show/1705646093?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1350300952l/863050.jpg
+author: Chris Ware
+rating: 5
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Euler
+link: https://www.goodreads.com/review/show/1705646076?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1386922497l/275918.jpg
+author: William Dunham
+rating: 3
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Solaris
+link: https://www.goodreads.com/review/show/1705645963?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1349062550l/251626.jpg
+author: StanisÅ‚aw Lem
+rating: 4
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: An Introduction to Genetic Algorithms
+link: https://www.goodreads.com/review/show/1705645861?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1347628909l/105139.jpg
+author: Melanie Mitchell
+rating: 2
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Lucifer's Legacy: The Meaning of Asymmetry
+link: https://www.goodreads.com/review/show/1705645847?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1185817128l/1608268.jpg
+author: Frank Close
+rating: 4
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Essence Of Neural Networks
+link: https://www.goodreads.com/review/show/1705645837?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1356459245l/4625542.jpg
+author: Robert Callan
+rating: 2
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Neural Networks for Pattern Recognition
+link: https://www.goodreads.com/review/show/1705645830?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1387667513l/92536.jpg
+author: Christopher M. Bishop
+rating: 3
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Neural Networks: A Comprehensive Foundation
+link: https://www.goodreads.com/review/show/1705645817?utm_medium=api&utm_source=rss
+image: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+author: Simon Haykin
+rating: 2
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Complete Guide to Option Pricing Formulas
+link: https://www.goodreads.com/review/show/1705645802?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1390707725l/770954.jpg
+author: Espen Gaardner Haug
+rating: 1
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Black Scholes and Beyond: Option Pricing Models
+link: https://www.goodreads.com/review/show/1705645788?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1386924641l/59615.jpg
+author: Neil A. Chriss
+rating: 3
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: The Fractal Geometry of Nature
+link: https://www.goodreads.com/review/show/1705645763?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1315596427l/558059.jpg
+author: BenoÃ®t B. Mandelbrot
+rating: 5
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: On Growth and Form
+link: https://www.goodreads.com/review/show/1705645734?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1348738718l/460984.jpg
+author: D&apos;Arcy Wentworth Thompson
+rating: 4
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Not Fade Away
+link: https://www.goodreads.com/review/show/1705645712?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1348260310l/272610.jpg
+author: Jim Dodge
+rating: 5
+date: Fri, 22 Jul 2016
+---
+
+
+---
+layout: post
+categories: books
+title: Genetic Algorithms in Search, Optimization, and Machine Learning
+link: https://www.goodreads.com/review/show/1705645665?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1348722238l/142613.jpg
+author: David Edward Goldberg
+rating: 3
+date: Fri, 22 Jul 2016
+---

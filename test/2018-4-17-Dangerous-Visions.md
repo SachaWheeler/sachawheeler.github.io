@@ -1,0 +1,14 @@
+---
+layout: post
+categories: books
+title: Dangerous Visions
+link: https://www.goodreads.com/review/show/2364583017?utm_medium=api&utm_source=rss
+image: https://images.gr-assets.com/books/1362005615l/10812224.jpg
+author: Harlan Ellison
+rating: 3
+date: Tue, 17 Apr 2018
+summary: xxx
+review: xxx
+---
+
+
