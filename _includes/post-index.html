@@ -1,0 +1,19 @@
+<article class="post">
+    <div class="left">
+        <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}"></a>
+    </div>
+    <div class="right">
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        {% if post.author %}<span>by <b>{{ post.author }}</b></span>{% endif %}
+
+        <div class="entry">
+            {% if post.summary %}
+                {{ post.summary }}
+            {% else %}
+                {{ post.excerpt }}
+            {% endif %}
+        </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </div>
+</article>
