@@ -99,7 +99,7 @@ foreach($files as $png){
 ## Output
 The script above gives me the data structure I need to paste into my Arduino Code
 
-```json
+```cpp
 { // images/image-001.png
 B00000000,  B00110000,  B00110000,  B00110000,  B00111000,  B00111000,  B00011000,  B00000000},
 
