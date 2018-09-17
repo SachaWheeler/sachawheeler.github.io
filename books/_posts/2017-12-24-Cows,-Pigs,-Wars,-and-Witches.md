@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: books
-title: Cows, Pigs, Wars, and Witches- The Riddles of Culture
+title: Cows, Pigs, Wars, and Witches
 link: https://www.goodreads.com/review/show/2223808355?utm_medium=api&utm_source=rss
 image: https://images.gr-assets.com/books/1388288268l/60653.jpg
 author: Marvin Harris

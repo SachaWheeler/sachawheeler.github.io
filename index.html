@@ -5,7 +5,7 @@ layout: default
 <style>
 .left{
   float: left;
-  width: 12%;
+  width: 16%;
   overflow: hidden;
 }
 .right {
@@ -17,13 +17,12 @@ layout: default
 <div class="posts">
     {% for post in site.posts %}
     <article class="post">
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
         <div class="left">
-            <img src="{{ post.image }}">
+            <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}"></a>
         </div>
         <div class="right">
-        {% if post.author %}<h4>by {{ post.author }}</h4>{% endif %}
+            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            {% if post.author %}<span>by <b>{{ post.author }}</b></span>{% endif %}
 
             <div class="entry">
             {% if post.summary %}
