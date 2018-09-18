@@ -7,12 +7,12 @@ summary: A digital candle using and Arduino and 8x8 led matrics.
 
 I saw a beautiful LED candle at the Museum of Modern Art (New York) and wanted one. How difficult could it be with an Arduino?
 
-![LED candle inspiration](https://j.gifs.com/ygq8LA.gif)
+![LED candle inspiration](/images/ygq8LA.gif)
 
 ## Get a video
 
 I probably could have shot something myself, but I did a search and found this on youtube 
-![](https://j.gifs.com/Kz8JGP.gif)
+![](/images/Kz8JGP.gif)
 
 Which I grabbed using:
 
@@ -40,7 +40,7 @@ ffmpeg -i Candle\ final.mp4 -r 4 images/image-%03d.png
 ```
 
 which left me with this: 
-![](http://sachawheeler.com/home/images/LEDCandle-images.png)
+![](/images/LEDCandle-images.png)
 
 ## Processing the frames
 ```php
@@ -118,17 +118,13 @@ B00100000,  B01110000,  B00110000,  B00111000,  B00111000,  B00111000,  B0011100
 ## The Code
 [Arduino Code](https://github.com/SachaWheeler/ArduinoLEDCandle)
 
-## The hardware
-Pretty simple this time. Wired up at the pub. 
-![](https://pbs.twimg.com/media/CN-mWcDWwAAjnTS.jpg)
-
 ## Result
 
-![Final Result](https://i.imgflip.com/qlrhv.gif)
+![Final Result](/images/qlrhv.gif)
 
 The MAX7219 chip (which drives this LED matrix) doesn't allow individual pixel intensity, so they're either on or off. This means the subtleties of the animation are lost.
 
 ## Addendum
 I ran the above steps again, but this time cropping to an 8x16 grid, and brought another identical LED Grid into play.
 
-![8x16](https://i.imgflip.com/qqa1b.gif)
+![8x16](/images/qqa1b.gif)
