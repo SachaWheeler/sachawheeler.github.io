@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Arduino Hourglass
-image: /images/hourglass/G5356L.gif
+image: /images/hourglass/IMG_7093_square.jpg
 summary: A digital hourglass using an Arduino, 2 8x8 led matrices and and 3-axis accelerometer.
 ---
 
@@ -9,7 +9,9 @@ I saw a nice digital hourglass on instagram
 
 ![LED hourlass inspiration](/images/hourglass/G5356L.gif)
 
-The 3 axis accelerometer
+Which i decided to build for myself.
+
+## The 3 axis accelerometer
 
 ![](/images/hourglass/IMG_7093.JPG)
 
