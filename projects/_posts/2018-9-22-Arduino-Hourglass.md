@@ -7,13 +7,13 @@ summary: A digital hourglass using an Arduino, 2 8x8 led matrices and and 3-axis
 
 I saw a nice digital hourglass on instagram
 
-![LED hourlass inspiration](/images/hourglass/G5356L.gif)
+![LED hourlass inspiration](/images/hourglass/G5356L.gif){:style="width: 500px;"}
 
 Which i decided to build for myself.
 
 ## The 3 axis accelerometer
 
-![](/images/hourglass/IMG_7093.JPG)
+![](/images/hourglass/IMG_7093.JPG){:style="width: 500px;"}
 
 The accelerometer gives a value for X, Y and Z (we don't use Z), which I normalise
 
