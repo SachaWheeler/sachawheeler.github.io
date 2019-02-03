@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Blog, as in, a "web log" of my real life activities.
+title: Just some things that I make
 ---
 
 I've decided to start documenting my offline activities which fit, broadly speaking, into the following categories:
