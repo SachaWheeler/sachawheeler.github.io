@@ -127,9 +127,9 @@ function get_move($board){
     // echo "board: {$board}\n";
     $b = str_split($board);
     // try to win
-    // 0 represents and empty square
-    // 1 represents a player's square (X)
-    // 2 represents a book's square (O)
+    // 0 represents an empty square
+    // 1 represents a player's square (O)
+    // 2 represents a book's square (X)
     if($b[0] == 0 && (($b[1] == 2 && $b[2] == 2) ||
                       ($b[3] == 2 && $b[6] == 2) ||
                       ($b[4] == 2 && $b[8] == 2)))
