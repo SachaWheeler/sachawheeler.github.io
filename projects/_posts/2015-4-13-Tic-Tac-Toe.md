@@ -221,7 +221,7 @@ Otherwise it chooses a "random" square, which is impossible, so it chooses the f
 
 By now, I've saved an array of pages. Each has a gameboard, with book and player moves.
 
-Each square or each board has either a "X", and "O", a page number (which represents the board that you would have if you were to play that square), or is blank if the game has already been won (or lost).
+Each square on each board has either an "X", an "O", a page number (which represents the board that you would have if you were to play that square), or is blank if the game has already been won (or lost).
 
 ![](/images/tictactoe/page_1.png)
 
@@ -373,7 +373,7 @@ If it's a tie, just end there. If it's a win or loss, show the winning move
 
 ![](/images/tictactoe/tie-win.png)
 
-Finally the images are saved, sequentially names, in a folder which I uploaded to Blurb.com who print it.
+Finally the images are saved, sequentially named, in a folder which I uploaded to Blurb.com who print it on demand.
 
 ## Thoughts
 Lots of fun. I was particularly happy with the way I "reuse" identical boards to save on the total number of pages.
