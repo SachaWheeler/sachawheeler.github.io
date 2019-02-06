@@ -5,7 +5,9 @@ image: /images/primes/cover.png
 summary: A Book of numbers
 ---
 
-I've always liked books of numbers: logarythms, random, I dont care. I decided I wanted a book that contained lots of prime numbers, partly because I don't really understand much about them, but felt I should.
+I've always liked books of numbers: logarithms, phone, random, I dont care.
+
+I decided I wanted a book that contained lots of prime numbers, partly because I don't really understand much about them, but felt I should, and that this would help.
 
 ![](/images/primes/cover.png)
 
@@ -15,7 +17,6 @@ import pprint
 # Initialize a list
 primes = []
 for possiblePrime in range(2, 2000000):  # a guess - more than enough
-
     # Assume number is prime until shown it is not.
     isPrime = True
     for num in range(2, int(possiblePrime ** 0.5) + 1):
