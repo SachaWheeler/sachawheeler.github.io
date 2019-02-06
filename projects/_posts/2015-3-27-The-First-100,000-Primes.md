@@ -41,6 +41,8 @@ I piped that into a text document, and formatted it in vim
 
 ![](/images/primes/pages.png)
 
+I wish I had saved those vim commands; there were only 3 or 4.
+
 # Thoughts
 Lots of fun. Took less than 2 hours from idea to manuscript.
 
