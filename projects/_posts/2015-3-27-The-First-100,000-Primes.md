@@ -1,7 +1,7 @@
 ---
 layout: project
 title: The First 100,000 Primes
-image: /images/tictactoe/cover.png
+image: /images/primes/cover.png
 summary: A Book of numbers
 ---
 
