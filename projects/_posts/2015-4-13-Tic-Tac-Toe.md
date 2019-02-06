@@ -128,8 +128,8 @@ function get_move($board){
     $b = str_split($board);
     // try to win
     // 0 represents and empty square
-    // 1 represnts a player's square (X)
-    // 2 represnts a book's square (O)
+    // 1 represents a player's square (X)
+    // 2 represents a book's square (O)
     if($b[0] == 0 && (($b[1] == 2 && $b[2] == 2) ||
                       ($b[3] == 2 && $b[6] == 2) ||
                       ($b[4] == 2 && $b[8] == 2)))
