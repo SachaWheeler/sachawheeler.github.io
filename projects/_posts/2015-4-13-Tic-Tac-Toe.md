@@ -63,7 +63,7 @@ function addChildren($board){
 }
 ```
 
-which I call, rather inneficiently, but this programme was only ever intended to be run once.
+which I call, rather inefficiently, but this programme was only ever intended to be run once.
 
 ```php
 // first and second moves
