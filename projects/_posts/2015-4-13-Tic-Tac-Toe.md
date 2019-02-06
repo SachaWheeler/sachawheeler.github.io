@@ -378,3 +378,5 @@ Lots of fun. I was particularly happy with the way I "reuse" identical boards to
 Most board states can be arrived at via different paths - there is no need to print multiple identical pages.
 
 The unit cost at Blurb.com is way too high for a book like this - one day I'll get around to printing it properly.
+
+The full source is [here](https://github.com/SachaWheeler/tic-tac-toe)
