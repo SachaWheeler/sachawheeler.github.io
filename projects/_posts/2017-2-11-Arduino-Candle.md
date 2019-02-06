@@ -11,7 +11,7 @@ I saw a beautiful LED candle at the Museum of Modern Art (New York) and wanted o
 
 ## Get a video
 
-I probably could have shot something myself, but I did a search and found this on youtube 
+I probably could have shot something myself, but I did a search and found this on youtube
 ![](/images/Kz8JGP.gif)
 
 Which I grabbed using:
@@ -39,7 +39,7 @@ And split it into it's frames (4 per second seemed sufficient):
 ffmpeg -i Candle\ final.mp4 -r 4 images/image-%03d.png
 ```
 
-which left me with this: 
+which left me with this:
 ![](/images/LEDCandle-images.png)
 
 ## Processing the frames
@@ -49,7 +49,7 @@ which left me with this:
 $files = glob("images/*.png");
 foreach($files as $png){
     echo " { // {$png}\n";
-    $im = ImageCreateFromPng($png); 
+    $im = ImageCreateFromPng($png);
 
     $imgw = imagesx($im);
     $imgh = imagesy($im);
@@ -67,7 +67,7 @@ foreach($files as $png){
         for ($j=0; $j<$dest_imgw; $j++)
         {
             // get the rgb value for current pixel
-            $rgb = ImageColorAt($bw_image, $j, $i); 
+            $rgb = ImageColorAt($bw_image, $j, $i);
 
             // extract each value for r, g, b
             $rr = ($rgb >> 16) & 0xFF;
@@ -122,9 +122,14 @@ B00100000,  B01110000,  B00110000,  B00111000,  B00111000,  B00111000,  B0011100
 
 ![Final Result](/images/qlrhv.gif)
 
+Link to the original [Instagram video](https://www.instagram.com/p/7KxoUsKist/)
+
 The MAX7219 chip (which drives this LED matrix) doesn't allow individual pixel intensity, so they're either on or off. This means the subtleties of the animation are lost.
 
 ## Addendum
 I ran the above steps again, but this time cropping to an 8x16 grid, and brought another identical LED Grid into play.
 
 ![8x16](/images/qqa1b.gif)
+
+Link to the original [Instagram video](https://www.instagram.com/p/7Xf8zlKigR/)
+
