@@ -45,3 +45,5 @@ I piped that into a text document, and formatted it in vim
 Lots of fun. Took less than 2 hours from idea to manuscript.
 
 I haven't learned much more about primes from this project, but I give this book away at Xmas and get lots of confused looks, which makes it all worthwhile.
+
+You can buy it [direct from blurb.com](http://www.blurb.com/b/6092470-the-1st-100-000-primes).
