@@ -9,6 +9,9 @@ I've always liked books of numbers: logarithms, phone, random, I dont care.
 
 I decided I wanted a book that contained lots of prime numbers, partly because I don't really understand much about them, but felt I should, and that this would help.
 
+(I had also just finished [Stanislaw-Lem's His Masters Voice](https://www.amazon.co.uk/His-Masters-Voice-Stanislaw-Lem/dp/8363471569/ref=la_B000AQ3P7Y_1_8?s=books&ie=UTF8&qid=1549454254&sr=1-8)
+which features a book of numbers in an important role.)
+
 ![](/images/primes/cover.png)
 
 First, I need a large list of primes. Python made that pretty easy.
