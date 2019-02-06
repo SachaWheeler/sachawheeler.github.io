@@ -216,9 +216,9 @@ Otherwise it chooses a "random" square, which is impossible, so it chooses the f
         $move = strpos($board, '0');
 ```
 
-By now, I've saved an array of pages. Each has a gameboard, with book and plyer moves.
+By now, I've saved an array of pages. Each has a gameboard, with book and player moves.
 
-Each square or each board has either a "X", and "O", a page number (which represent the board that you would have if you were to play that square), or is blank if the game has already been won (or lost).
+Each square or each board has either a "X", and "O", a page number (which represents the board that you would have if you were to play that square), or is blank if the game has already been won (or lost).
 
 ![](/images/tictactoe/page_1.png)
 
@@ -260,7 +260,7 @@ function save_image($board_string){
 Then, determine if someone has already won
 
 ```php
-if(isWinner($board_string, 1))
+    if(isWinner($board_string, 1))
         $state = "win";
     elseif(isWinner($board_string, 2))
         $state = "lose";
