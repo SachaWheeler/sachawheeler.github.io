@@ -2,7 +2,7 @@
 layout: project
 title: The First 100,000 Primes
 image: /images/primes/cover.png
-summary: A Book of numbers
+summary: A book of prime numbers
 ---
 
 I've always liked books of numbers: logarithms, phone, random, I dont care.
