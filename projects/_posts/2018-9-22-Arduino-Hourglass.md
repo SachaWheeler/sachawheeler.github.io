@@ -2,7 +2,7 @@
 layout: project
 title: Arduino Hourglass
 image: /images/hourglass/IMG_7093_square.jpg
-summary: A digital hourglass using an Arduino, 2 8x8 led matrices and and 3-axis accelerometer.
+summary: A digital hourglass using an Arduino, 2 8x8 led matrices and a 3-axis accelerometer.
 ---
 
 I saw a nice digital hourglass on instagram
@@ -21,7 +21,7 @@ The accelerometer gives a value for X, Y and Z (we don't use Z), which I normali
   x_adc_value = analogRead(x_out) - x_range_mid;
   y_adc_value = analogRead(y_out) - y_range_mid;
   // z_adc_value = analogRead(z_out) - z_range_mid;
-  
+
 ```
 
 and convert into an angle
