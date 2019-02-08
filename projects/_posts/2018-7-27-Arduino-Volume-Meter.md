@@ -91,9 +91,9 @@ I put it in a box, pokeing the microphone through the lid.
 
 ## Thoughts
 
-Fun, but the best bits were very easy. The mic and amplifier do such a good job, I really only had to install them.
+Fun, but the best bits were a bit too easy. The mic and amplifier do such a good job, I really only had to install them.
 
-But it worked! For a while... People seemed surprised to realise how quickly a noisy environemnt grew, and it changed behaviour.
+But it worked! For a while... People seemed surprised to realise how quickly a noisy environment grew, and it changed behaviour.
 Until people got used to it, and possibly, quite reasonably, resented being scolded for making a noise.
 
 ![The final product](/images/volume_meter/finished.gif)
