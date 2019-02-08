@@ -5,7 +5,7 @@ image: /images/volume_meter/cover.jpg
 summary: A digital volume meter using an Arduino.
 ---
 
-After a lifetime of llistening to loud music, I have sensitive ears and (rather passive agggressively)
+After a lifetime of llistening to loud music, I have sensitive ears and (rather passive aggressively)
 wanted to let my colleagues know how noisy the office sometimes gets.
 
 I got a 12v [Tower Light](https://www.adafruit.com/product/2993) and thought is would make a good volume indicator
@@ -96,5 +96,5 @@ An interesting experiment.
 
 ## The code
 
-<https://github.com/SachaWheeler/https://github.com/SachaWheeler/volume_meter>
+<https://github.com/SachaWheeler/volume_meter>
 
