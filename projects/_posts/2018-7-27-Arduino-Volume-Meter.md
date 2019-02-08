@@ -53,7 +53,13 @@ void loop() {
 
 ![](/images/volume_meter/IMG_6825.JPG){:style="width: 500px;"}
 
-And I light the appropriate light, depending on the voltage
+And I light the appropriate light, depending on the voltage while I defined by trial and error
+
+```cpp
+float green = 0.3;
+float yellow = 0.6;
+float red = 1.2;
+```
 
 ```cpp
   if(volts < green){
