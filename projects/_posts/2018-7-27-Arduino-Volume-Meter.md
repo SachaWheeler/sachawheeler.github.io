@@ -96,9 +96,9 @@ Fun, but the best bits were very easy. The mic and amplifier do such a good job,
 But it worked! For a while... People seemed surprised to realise how quickly a noisy environemnt grew, and it changed behaviour.
 Until people got used to it, and possibly, quite reasonably, resented being scolded for making a noise.
 
-An interesting experiment.
-
 ![The final product](/images/volume_meter/finished.gif)
+
+An interesting experiment.
 
 ## The code
 
