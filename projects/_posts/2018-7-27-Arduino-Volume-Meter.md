@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Arduino Volume Meter
-image: /images/volume_meter/cover.jpg
+image: /images/volume_meter/volume_cover.gif
 summary: A digital volume meter using an Arduino.
 ---
 
