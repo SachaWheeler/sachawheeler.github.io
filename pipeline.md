@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Other projects that I've started
+title: Other projects that are in some stage of progress
 ---
 
-Many projects (and marriages) I start are not finished, but they are all
+Many projects (and a few marriages) I start are not finished, but they are all
 started for good reasons, and abandoned for equally good ones. Much is learned
-from unsuccessful projects!
+from unsuccessful projects.
 
 What I'm saying is these might never appear.
 
@@ -18,9 +18,10 @@ Alzheimer's but is in her 80s nonetheless)
         related box (of similar size); a 3d scanner of sorts.  But I haven't
         figured out how to implement the *scanning* part of the project.
 * a USB controller for my main audio recording mac (currently being developed)
-* a GPS tracker for my father with a decent battery life (7 days)
-* a sentient human skull
+* a small (keyring) GPS tracker for my father with a decent battery life (7 days)
 * a CD player for my father with only an eject button and a volume knob.
+* a movie to coffee-table book converter. I've had some success, but want more.
+* a sentient human skull
 
 Sometimes the things I build for my father aren't built in time for him to
 enjoy them (his condition is accelerating), but it's fun for me, nontheless.
