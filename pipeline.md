@@ -7,6 +7,8 @@ Many projects (and marriages) I start are not finished, but they are all
 started for good reasons, and abandoned for equally good ones. Much is learned
 from unsuccessful projects!
 
+What I'm saying is these might never appear.
+
 Currently sitting on shelves:
 * a simple single channel digital radio for my father (who has Alzheimer's)
 * a simple two-channel digital radio for my mother (who does not have
