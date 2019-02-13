@@ -3,9 +3,8 @@ layout: page
 title: Other projects that are in some stage of progress
 ---
 
-Many projects (and a few marriages) I start are not finished, but they are all
-started for good reasons, and abandoned for equally good ones. Much is learned
-from unsuccessful projects.
+Many projects I start are not finished, and they are often abandoned for better
+reasons than they are started.  Much is learned from unsuccessful projects.
 
 What I'm saying is these might never appear.
 
