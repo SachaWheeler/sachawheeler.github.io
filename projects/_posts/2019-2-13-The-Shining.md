@@ -82,7 +82,13 @@ ffmpeg -n -i The.Shining.1980.nosubtitles.mkv -i The.Shining.1980.nosound_nosubt
 ## The finished product
 
 ![](/images/the_shining/elevator.png){:style="width: 500px;"}
+![](/images/the_shining/lobby.png){:style="width: 500px;"}
+![](/images/the_shining/corridor.png){:style="width: 500px;"}
 
 ### If you're in a hurry,
 And have a powerful computer, you can probably run all of these in a single
 ffmpeg command. ffmpeg is pretty powerful.
+
+### If you know me
+ask, and I'll give you a copy.
+### If you're in a hurry,
