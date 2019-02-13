@@ -85,10 +85,12 @@ ffmpeg -n -i The.Shining.1980.nosubtitles.mkv -i The.Shining.1980.nosound_nosubt
 ![](/images/the_shining/lobby.png){:style="width: 500px;"}
 ![](/images/the_shining/corridor.png){:style="width: 500px;"}
 
+You can play around with the opacity settings in that last step to find
+something that you like, but 50% is a good starting point.
+
 ### If you're in a hurry,
 And have a powerful computer, you can probably run all of these in a single
 ffmpeg command. ffmpeg is pretty powerful.
 
 ### If you know me
 ask, and I'll give you a copy.
-### If you're in a hurry,
