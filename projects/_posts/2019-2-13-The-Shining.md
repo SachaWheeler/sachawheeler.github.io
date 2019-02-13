@@ -2,7 +2,7 @@
 layout: project
 title: The Shining, back and forth
 image: /images/the_shining/cover.png
-summary: The Shining, superimposed onto itself in reverse. Like in the movie "Room 237"
+summary: The Shining, superimposed onto itself in reverse.
 ---
 
 In the film [Room 237](https://en.wikipedia.org/wiki/Room_237) they mention a
