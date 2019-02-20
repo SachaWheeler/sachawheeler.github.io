@@ -68,3 +68,15 @@ And a blinking LED when we're recording
 ![](/images/missile/ezgif-4-5b23530c7df3.gif)
 
 The [code is here](https://github.com/SachaWheeler/USB-controlller).
+
+## Thoughts
+
+This was a fun project. Interface designers are shit (yeah, I said it, and you
+know you agree) and I'm no longer interested in using their shitty products
+out of convenience.
+
+Technologists sometimes forget that tech is a *support* function. It helps us
+do what we want to do, or it is useless. Taking functionality away from a
+creative process is alwasy a good thing.
+
+It turns out, making your own interfaces is fun, easy and cheap.
