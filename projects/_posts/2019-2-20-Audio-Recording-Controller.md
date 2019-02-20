@@ -30,6 +30,12 @@ And bought a [small enclosure](https://www.ebay.co.uk/itm/Retex-33020101-Abox-1-
 
 ![](/images/missile/enclosure.png)
 
+And a [USB-b to micro panel mount cable](https://www.amazon.co.uk/gp/product/B01BMRTURS/)
+
+![](/images/missile/cable.jpg)
+
+To mount inside
+
 The code is very simple. The *missile* trigger switch sends a custom sequence
 which activates an AppleScript on my server which opens Audacity
 
