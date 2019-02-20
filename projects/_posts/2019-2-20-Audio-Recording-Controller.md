@@ -2,7 +2,7 @@
 layout: project
 title: Custom USB Controller
 image: /images/missile/cover.jpg
-summary: A Custom USB keyboard for launching and controlling Audacity
+summary: A Custom USB control panel for controlling audio recording software
 ---
 
 I use computers a lot, so when I'm not using computers, I really don't want to
