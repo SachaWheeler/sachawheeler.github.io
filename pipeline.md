@@ -19,7 +19,7 @@ Alzheimer's but is in her 80s nonetheless)
 * ~~a USB controller for my main audio recording mac~~ [finished](/projects/Audio-Recording-Controller/)
 * a small (keyring) GPS tracker for my father with a decent battery life (7 days)
 * a CD player for my father with only an eject button and a volume knob.
-* a movie to coffee-table book converter. I've had some success, but want more.
+* a movie to coffee-table book converter. I've had some [success](http://www.blurb.com/b/5786531-coffee-table-book-of-the-living-dead-by-george-rom), but want more.
 * a sentient human skull
 
 Sometimes the things I build for my father aren't built in time for him to
