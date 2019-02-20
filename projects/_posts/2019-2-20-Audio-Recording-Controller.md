@@ -26,6 +26,10 @@ I had a couple of *fun* switches which I'd wanted to use for something silly.
 
 ![](/images/missile/IMG_7678.JPG)
 
+And bought a [small enclosure](https://www.ebay.co.uk/itm/Retex-33020101-Abox-1-Grey-195-x-62-x-120mm/132106419492?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) from ebay
+
+![](/images/missile/enclosure.png)
+
 The code is very simple. The *missile* trigger switch sends a custom sequence
 which activates an AppleScript on my server which opens Audacity
 
