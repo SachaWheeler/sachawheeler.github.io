@@ -16,7 +16,7 @@ Alzheimer's but is in her 80s nonetheless)
         I had wanted to reproduce in the led cube whatever is placed in a
         related box (of similar size); a 3d scanner of sorts.  But I haven't
         figured out how to implement the *scanning* part of the project.
-* a USB controller for my main audio recording mac (currently being developed)
+* ~~a USB controller for my main audio recording mac (currently being developed)~~ [finished](/projects/Audio-Recording-Controller/)
 * a small (keyring) GPS tracker for my father with a decent battery life (7 days)
 * a CD player for my father with only an eject button and a volume knob.
 * a movie to coffee-table book converter. I've had some success, but want more.
