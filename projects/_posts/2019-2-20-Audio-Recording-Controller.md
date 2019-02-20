@@ -71,12 +71,15 @@ The [code is here](https://github.com/SachaWheeler/USB-controlller).
 
 ## Thoughts
 
-This was a fun project. Interface designers are shit (yeah, I said it, and you
-know you agree) and I'm no longer interested in using their shitty products
-out of convenience.
+This was a fun project. Hardware interface designers are mostly shit (you know you
+agree) and I'm no longer interested in using their shitty products out of
+convenience.
 
-Technologists sometimes forget that tech is a *support* function. It helps us
-do what we want to do, or it is useless. Taking functionality away from a
+Technologists often forget that tech is a *support* function. It helps us
+do what we want to do, or it is useless. Taking technology away from a
 creative process is always a good thing.
 
-It turns out, making your own interfaces is fun, easy and cheap.
+It turns out, making your own interfaces is fun, easy and cheap, and makes the
+creative process a lot more fun.
+
+How much do you really know about something unless you built it?
