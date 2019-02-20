@@ -80,6 +80,4 @@ do what we want to do, or it is useless. Taking technology away from a
 creative process is always a good thing.
 
 It turns out, making your own interfaces is fun, easy and cheap, and makes the
-creative process a lot more fun.
-
-How much do you really know about something unless you built it?
+creative process more productive.
