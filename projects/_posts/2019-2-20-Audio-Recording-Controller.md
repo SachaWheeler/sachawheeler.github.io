@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Audacity Audio Controller
+title: Custom USB Controller
 image: /images/missile/cover.jpg
 summary: A Custom USB keyboard for launching and controlling Audacity
 ---
