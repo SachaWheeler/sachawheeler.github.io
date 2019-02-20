@@ -77,6 +77,6 @@ out of convenience.
 
 Technologists sometimes forget that tech is a *support* function. It helps us
 do what we want to do, or it is useless. Taking functionality away from a
-creative process is alwasy a good thing.
+creative process is always a good thing.
 
 It turns out, making your own interfaces is fun, easy and cheap.
