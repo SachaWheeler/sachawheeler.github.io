@@ -71,13 +71,9 @@ The [code is here](https://github.com/SachaWheeler/USB-controlller).
 
 ## Thoughts
 
-This was a fun project. Hardware interface designers are mostly shit (you know you
-agree) and I'm no longer interested in using their shitty products out of
-convenience.
-
-Technologists often forget that tech is a *support* function. It helps us
-do what we want to do, or it is useless. Taking technology away from a
-creative process is always a good thing.
+This was a fun project. Computer hardware interfaces are very generic
+(compared, say with engineering hardware, which is intricately specific),
+but the tasks we meed them for are not.
 
 It turns out, making your own interfaces is fun, easy and cheap, and makes the
-creative process more productive.
+creative process more productive, more informative and more personal.
