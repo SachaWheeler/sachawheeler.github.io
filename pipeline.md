@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other projects that are in some stage of progress
+title: Other projects
 ---
 
 Many projects I start are not finished, and they are often abandoned for better
