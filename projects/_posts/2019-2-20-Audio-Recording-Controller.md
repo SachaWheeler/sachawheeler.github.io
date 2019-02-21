@@ -36,6 +36,10 @@ And a [USB-b to micro panel mount cable](https://www.amazon.co.uk/gp/product/B01
 
 To mount inside
 
+<video width="400" controls autoplay>
+    <source src="/images/missile/IMG_7766.mov" type="video/mp4">
+</video>
+
 The code is very simple. The *missile* trigger switch sends a custom sequence
 which activates an AppleScript on my server which opens Audacity
 
