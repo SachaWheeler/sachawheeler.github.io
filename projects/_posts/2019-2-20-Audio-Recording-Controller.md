@@ -85,9 +85,10 @@ The [code is here](https://github.com/SachaWheeler/USB-controlller).
 
 ## Thoughts
 
-This was a fun project. Computer hardware interfaces are very generic
-(compared, say with engineering hardware, which is intricately specific),
-but the tasks we need them for often are not.
+This was a fun project. Computer hardware interfaces are very generic but
+the tasks we need them for often are not.
 
 It turns out, making your own interfaces is fun, easy and cheap, and makes the
 creative process more productive, more informative and more personal.
+
+You'll never know what you need if you always accept what you're given.
