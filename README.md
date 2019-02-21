@@ -1,3 +1,3 @@
 # A personal blog
 
-Mostly subjective ratings of books I read.
+Just things I make for fun. http://sachawheeler.github.io
