@@ -10,8 +10,6 @@ What I'm saying is these might never appear.
 
 Currently sitting on shelves:
 * a simple single channel digital radio for my father (who has Alzheimer's)
-* a simple two-channel digital radio for my mother (who does not have
-Alzheimer's but is in her 80s nonetheless)
 * an 8x8x8 led cube - paused as I think of the application for it.
         I had wanted to reproduce in the led cube whatever is placed in a
         related box (of similar size); a 3d scanner of sorts.  But I haven't
@@ -21,3 +19,4 @@ Alzheimer's but is in her 80s nonetheless)
 * a CD player for my father with only an eject button and a volume knob.
 * a movie to coffee-table book converter. I've had some [success](http://www.blurb.com/b/5786531-coffee-table-book-of-the-living-dead-by-george-rom), but want more.
 * a sentient human skull (<span style="color:red;">currently under development</span>)
+* a cigar box violin
