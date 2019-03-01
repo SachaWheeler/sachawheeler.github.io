@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Custom USB Controller
+title: Jam Box
 image: /images/missile/cover.jpg
-summary: A Custom USB control panel for controlling audio recording software
+summary: A Custom USB control panel for operating audio recording software
 ---
 
 I use computers a lot, so when I'm not using computers, I really don't want to
