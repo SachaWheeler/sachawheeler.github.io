@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Sympathy for the Devil
-image: /images/the_shining/cover.png
+image: /images/sympathy/cover.png
 summary: Jean-Luc Godard's Sympathy for the Devil with the politics removed
 ---
 
@@ -51,7 +51,6 @@ ffmpeg -ss 01:25:33 -i Sympathy\ for\ the\ Devil\ 1968.mkv -to 01:37:10 -c copy 
 ### Concatenate the clips
 
 ```sh
-
 for f in ./output_*.mkv;
     do echo "file '$f'" >> split_files.txt;
 done
