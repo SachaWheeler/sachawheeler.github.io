@@ -102,6 +102,8 @@ Until people got used to it, and possibly, quite reasonably, resented being scol
 
 An interesting experiment.
 
+*Update:* I quit the job.
+
 ## The code
 
 <https://github.com/SachaWheeler/volume_meter>
