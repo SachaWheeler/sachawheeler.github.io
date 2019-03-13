@@ -2,7 +2,7 @@
 layout: project
 title: Arduino Candle
 image: https://i.imgflip.com/qlrhv.gif
-categories: [arduino]
+categories: [electronics]
 summary: A digital candle using an Arduino and 8x8 led matrix.
 ---
 

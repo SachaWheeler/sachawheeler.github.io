@@ -12,9 +12,10 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
+  <hr>
   <div class="related">
-    <h3>Related</h3>
     {% assign firstCategory = page.categories | first %}
+          <h3>Related in {{ firstCategory }}</h3>
     {% assign relatedCount = 0 %}
     <table border=1>
             <tr>
