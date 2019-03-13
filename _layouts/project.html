@@ -12,5 +12,26 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
+  <div class="related">
+    <h3>Related</h3>
+    {% assign firstCategory = page.categories | first %}
+    {% assign relatedCount = 0 %}
+    <table border=1>
+            <tr>
+    {% for related in site.categories[firstCategory] %}
+        {% if related.url != page.url %}
+            {% assign relatedCount = relatedCount | plus: 1 %}
+            <td style="align:center; width:30%;">
+            <a href="{{related.url}}"><img src="{{ related.image }}" style="height: 150px;" ><br>
+                    {{ related.title }}</a>
+            </td>
+        {% endif %}
+        {% if relatedCount == 3 %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+            </tr>
+    </table>
+</div>
 
 </article>
