@@ -2,6 +2,7 @@
 layout: project
 title: Jam Box
 image: /images/missile/cover.jpg
+categories: [arduino]
 summary: A Custom USB control panel for operating audio recording software
 ---
 

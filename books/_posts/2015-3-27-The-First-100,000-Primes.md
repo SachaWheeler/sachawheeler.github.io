@@ -2,6 +2,7 @@
 layout: project
 title: The First 100,000 Primes
 image: /images/primes/cover.png
+categories: [books]
 summary: A book of prime numbers
 ---
 

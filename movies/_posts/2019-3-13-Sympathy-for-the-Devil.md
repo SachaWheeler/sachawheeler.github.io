@@ -2,6 +2,7 @@
 layout: project
 title: Sympathy for the Devil
 image: /images/sympathy/cover.png
+categories: [movies]
 summary: Jean-Luc Godard's Sympathy for the Devil with the politics removed
 ---
 

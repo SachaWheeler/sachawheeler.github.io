@@ -2,6 +2,7 @@
 layout: project
 title: Tic Tac Toe - A Gamebook
 image: /images/tictactoe/cover.png
+categories: [books]
 summary: A gamebook where you play tic-tac-toe against the book.
 ---
 

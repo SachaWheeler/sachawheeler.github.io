@@ -2,6 +2,7 @@
 layout: project
 title: The Shining, back and forth
 image: /images/the_shining/cover.png
+categories: [movies]
 summary: The Shining, superimposed onto itself in reverse.
 ---
 

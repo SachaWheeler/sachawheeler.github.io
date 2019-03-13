@@ -23,11 +23,7 @@ layout: default
 
 <div class="posts">
     {% for post in site.posts %}
-        {% if post.categories contains "books" %}
-            {% include post-index.html%}
-        {% elsif post.categories contains "projects" %}
-            {% include post-index.html%}
-        {% endif %}
+        {% include post-index.html%}
     <div style="clear: both;"></div>
     {% endfor %}
 </div>

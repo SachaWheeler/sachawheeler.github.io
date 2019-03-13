@@ -2,10 +2,11 @@
 layout: project
 title: Arduino Volume Meter
 image: /images/volume_meter/volume_cover.gif
+categories: [arduino]
 summary: A digital volume meter using an Arduino.
 ---
 
-After a lifetime of llistening to loud music, I have sensitive ears and (rather passive aggressively)
+After a lifetime of listening to loud music, I have sensitive ears and (rather passive aggressively)
 wanted to let my colleagues know how noisy the office sometimes gets.
 
 I got a 12v [Tower Light](https://www.adafruit.com/product/2993) and thought is would make a good volume indicator
