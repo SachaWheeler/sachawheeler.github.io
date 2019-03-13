@@ -6,7 +6,8 @@ categories: [movies]
 summary: The Shining, superimposed onto itself in reverse.
 ---
 
-In the film [Room 237](https://en.wikipedia.org/wiki/Room_237) they mention a
+In the film [Room 237](https://en.wikipedia.org/wiki/Room_237){:target="_blank"}
+they mention a
 bootleg version of The Shining which runs forwards and backwards, simultaneously.
 
 ![](/images/the_shining/Room_237_(2012_film).jpg)
@@ -17,7 +18,7 @@ I wanted to watch it, and if you follow these instructions, you can too.
 
 I found one called: "The.Shining.1980.mkv"
 
-### Get a copy of [ffmpeg](https://www.ffmpeg.org/)
+### Get a copy of [ffmpeg](https://www.ffmpeg.org/){:target="_blank"}
 
 If something is worth doing, it's worth doing on the command line.
 

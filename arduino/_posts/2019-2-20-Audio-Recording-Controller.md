@@ -14,8 +14,8 @@ and we want to be able to start (and stop) recording without having to use a com
 keyboard or mouse. It's also about 5 feet away from where we play, and I'm pretty lazy,
 so a custom USB controller seemed to be a solution.
 
-The [Sparkfun Pro Micro](https://www.sparkfun.com/products/12640) comes
-equipped with a full-speed USB transceiver, which I don't think Arduino does (yet).
+The [Sparkfun Pro Micro](https://www.sparkfun.com/products/12640){:target="_blank"}
+comes equipped with a full-speed USB transceiver, which I don't think Arduino does (yet).
 
 ![](/images/missile/IMG_7708.JPG)
 
@@ -27,11 +27,11 @@ I had a couple of *fun* switches which I'd wanted to use for something silly.
 
 ![](/images/missile/IMG_7678.JPG)
 
-And bought a [small enclosure](https://www.ebay.co.uk/itm/Retex-33020101-Abox-1-Grey-195-x-62-x-120mm/132106419492?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) from ebay
+And bought a [small enclosure](https://www.ebay.co.uk/itm/Retex-33020101-Abox-1-Grey-195-x-62-x-120mm/132106419492?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649){:target="_blank"} from ebay
 
 ![](/images/missile/enclosure.png)
 
-And a [USB-b to micro panel mount cable](https://www.amazon.co.uk/gp/product/B01BMRTURS/)
+And a [USB-b to micro panel mount cable](https://www.amazon.co.uk/gp/product/B01BMRTURS/){:target="_blank"}
 
 ![](/images/missile/cable.jpg)
 
@@ -82,7 +82,7 @@ And a blinking LED when we're recording
 
 ![](/images/missile/ezgif-4-5b23530c7df3.gif)
 
-The [code is here](https://github.com/SachaWheeler/USB-controlller).
+The [code is here](https://github.com/SachaWheeler/USB-controlller){:target="_blank"}.
 
 ## Thoughts
 

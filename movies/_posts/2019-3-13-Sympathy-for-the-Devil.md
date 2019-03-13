@@ -8,15 +8,15 @@ summary: Jean-Luc Godard's Sympathy for the Devil with the politics removed
 
 ![](/images/sympathy/titles.png)
 
-In Jean-Luc Godard's film [Sympathy for the Devil](https://en.wikipedia.org/wiki/Sympathy_for_the_Devil_(film))
+In Jean-Luc Godard's film [Sympathy for the Devil](https://en.wikipedia.org/wiki/Sympathy_for_the_Devil_(film)){:target="_blank"}
 the famous (I find him impenetrable) director gets footage of The Rolling Stones recording their song but decides to
 combine unrelated footage, which might be interesting in its own right, but simply gets in the way.
 
 ### Good
-![good](/images/sympathy/rehearsal.png)
+![good](/images/sympathy/rehearsal.png){:style="width: 500px;"}
 ### Bad
-![bad](/images/sympathy/politics.png)
-![confusing](/images/sympathy/politics2.png)
+![bad](/images/sympathy/politics.png){:style="width: 500px;"}
+![confusing](/images/sympathy/politics2.png){:style="width: 500px;"}
 
 I wanted to remove everything except The Rolling Stones, and if you follow these instructions, you can too.
 
@@ -64,7 +64,7 @@ Much better. MUCH BETTER!
 
 Look, I like art films, but if you are lucky enough to witness and record an historical event,
 you have to work pretty hard to make it about you. Some people succeed
-([Albert and David Maysles](https://en.wikipedia.org/wiki/Albert_and_David_Maysles), for instance),
+([Albert and David Maysles](https://en.wikipedia.org/wiki/Albert_and_David_Maysles){:target="_blank"}, for instance),
 but I don't think Godard cares about the footage he captured, or the message he smashes into it.
 
 If you like the Stones, this edit is better.

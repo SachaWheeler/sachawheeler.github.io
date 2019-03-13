@@ -9,11 +9,12 @@ summary: A digital volume meter using an Arduino.
 After a lifetime of listening to loud music, I have sensitive ears and (rather passive aggressively)
 wanted to let my colleagues know how noisy the office sometimes gets.
 
-I got a 12v [Tower Light](https://www.adafruit.com/product/2993) and thought is would make a good volume indicator
+I got a 12v [Tower Light](https://www.adafruit.com/product/2993){:target="_blank"}
+and thought is would make a good volume indicator
 
 ![Tower Light](/images/volume_meter/2993-01.jpg){:style="width: 500px;"}
 
-and a [MAX9814 Microphone Amplifier](https://www.adafruit.com/product/1713)
+and a [MAX9814 Microphone Amplifier](https://www.adafruit.com/product/1713){:target="_blank"}
 
 ![MAX9814 Microphone Amplifier](/images/volume_meter/1713-00.jpg){:style="width: 500px;"}
 

@@ -117,13 +117,13 @@ B00100000,  B01110000,  B00110000,  B00111000,  B00111000,  B00111000,  B0011100
 ```
 
 ## The Code
-[Arduino Code](https://github.com/SachaWheeler/ArduinoLEDCandle)
+[Arduino Code](https://github.com/SachaWheeler/ArduinoLEDCandle){:target="_blank"}
 
 ## Result
 
 ![Final Result](/images/qlrhv.gif)
 
-Link to the original [Instagram video](https://www.instagram.com/p/7KxoUsKist/)
+Link to the original [Instagram video](https://www.instagram.com/p/7KxoUsKist/){:target="_blank"}
 
 The MAX7219 chip (which drives this LED matrix) doesn't allow individual pixel intensity, so they're either on or off. This means the subtleties of the animation are lost.
 
@@ -132,5 +132,5 @@ I ran the above steps again, but this time cropping to an 8x16 grid, and brought
 
 ![8x16](/images/qqa1b.gif)
 
-Link to the original [Instagram video](https://www.instagram.com/p/7Xf8zlKigR/)
+Link to the original [Instagram video](https://www.instagram.com/p/7Xf8zlKigR/){:target="_blank"}
 

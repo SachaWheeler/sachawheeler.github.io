@@ -382,6 +382,6 @@ Most board states can be arrived at via different paths - there is no need to pr
 
 The unit cost at Blurb.com is way too high for a book like this - one day I'll get around to printing it properly.
 
-The full source is [here](https://github.com/SachaWheeler/tic-tac-toe).
+The full source is [here](https://github.com/SachaWheeler/tic-tac-toe){:target="_blank"}.
 
-You can [buy it direct from blurb.com](http://www.blurb.com/b/6092470-the-1st-100-000-primes).
+You can [buy it direct from blurb.com](http://www.blurb.com/b/6092470-the-1st-100-000-primes){:target="_blank"}.
