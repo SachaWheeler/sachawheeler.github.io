@@ -26,7 +26,7 @@ The Spectrum Shield *also* uses specific ports for its functionality, and these 
 simply to plug the shield into the arduino, as I'd soldered it.
 
 So I decided to use coloured ribbon cables so I could redirect the 4 pins (2 analogue, 2 digital) that the Shield required
-to ports that were avalaible. (Essentially moving the Shield digital ports 4 & 5 to 12 & 13, and Analogue ports A0 & A1 to A4 & A5).
+to ports that were avalaible (essentially moving the Shield digital ports 4 & 5 to 12 & 13, and Analogue ports A0 & A1 to A4 & A5).
 
 ![](/images/spectrum_analyser/jumper_cables.jpg)
 
