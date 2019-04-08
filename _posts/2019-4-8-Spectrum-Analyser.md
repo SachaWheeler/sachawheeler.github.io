@@ -49,3 +49,8 @@ At this point it was all about software. Creating a basic visualiser was quite s
 ## The finished product
 
 It's not finished yet, but I like it. I'm adding visualisations and some controls.
+At some point there might need to be a containing structure. I'm leaving that decision for later.
+
+## The code
+
+is [here](https://github.com/SachaWheeler/spectrum-analyser/blob/master/spectrum_analyser.ino){:target="_blank"}
