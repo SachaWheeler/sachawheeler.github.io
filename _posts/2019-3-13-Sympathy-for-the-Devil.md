@@ -69,5 +69,8 @@ but I don't think Godard cares about the footage he captured, or the message he 
 
 If you like the Stones, this edit is better.
 
+(full disclosure: I identify politically as a Marxist. I don't mind the political content, just that it's getting
+in the way!)
+
 ### If you know me
 ask, and I'll give you a copy.
