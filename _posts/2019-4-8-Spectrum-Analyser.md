@@ -6,13 +6,13 @@ categories: [electronics]
 summary: An Arduino powered spectrum analyser (graphic equalizer)
 ---
 
-I found an old, unused 16x32 RGB led matrix which I bought on a whim years ago and
+I found an old, unused [16x32 RGB led matrix](https://www.adafruit.com/product/420){:target="_blank"} which I bought on a whim years ago and
 had completely forgotten about.
 
 ![](/images/spectrum_analyser/led_matrix_rgbmatrix.jpg)
 
 After a little googling I found the
-[Sparkfun Spectrum Shield](https://learn.sparkfun.com/tutorials/spectrum-shield-hookup-guide/all)
+[Sparkfun Spectrum Shield](https://www.amazon.com/SparkFun-Sparkfun-Spectrum-Shield/dp/B00X0K30I6){:target="_blank"}
 which seemed to do most of the heavy lifting of a 7-band audio spectrum analyser.
 
 ![](/images/spectrum_analyser/shield.jpg)
@@ -22,10 +22,10 @@ I soldered headers onto the shield before reading the spec sheet and later reali
 to get the comparatively low-powered arduino to handle the refresh rate on the matrix, certain *liberties*
 were taken in the Matrix library; the matrix is *required* to use specific ports for it to work.
 
-The Spectrum Shield *also* uses specific ports for its functionality, and these ports conflict. So I would be unable
+The Spectrum Shield *also* uses specific ports for its functionality, and these ports conflict - I would be unable
 simply to plug the shield into the arduino, as I'd soldered it.
 
-So I decided to use *extension* cables so I could redirect the 4 pins (2 analogue, 2 digital) that the Shield required
+So I decided to use coloured ribbon cables so I could redirect the 4 pins (2 analogue, 2 digital) that the Shield required
 to ports that were avalaible. (Essentially moving the Shield digital ports 4 & 5 to 12 & 13, and Analogue ports A0 & A1 to A4 & A5).
 
 ![](/images/spectrum_analyser/jumper_cables.jpg)
