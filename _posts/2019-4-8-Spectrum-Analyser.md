@@ -32,7 +32,7 @@ to ports that were avalaible (essentially moving the Shield digital ports 4 & 5 
 
 ## Power
 The Matrix wants 5v but needs up to 4 Amps, averaging about 2A of current, so I split the output of a 5v 4A supply between the
-Matrix and the current-limited Arduino barrel plug.
+Matrix and the current-limiting Arduino barrel plug.
 
 ![](/images/spectrum_analyser/power.jpg)
 
