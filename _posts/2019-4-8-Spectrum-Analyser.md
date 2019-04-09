@@ -51,6 +51,14 @@ At this point it was all about software. Creating a basic visualiser was quite s
 It's not finished yet, but I like it. I'm adding visualisations and some controls.
 At some point there might need to be a containing structure. I'm leaving that decision for later.
 
+<video width="250" controls>
+  <source src="/images/spectrum_analyser/video_45d436f11d3d45dab309db214bc95f18.mp4" type="video/mp4">
+</video>
+
+<video width="250" controls>
+  <source src="/images/spectrum_analyser/video_96bbc71ca10144d3a7c8adde7a94ae6c.mp4" type="video/mp4">
+</video>
+
 ## The code
 
 is [here](https://github.com/SachaWheeler/spectrum-analyser/blob/master/spectrum_analyser.ino){:target="_blank"}
