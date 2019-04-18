@@ -95,7 +95,7 @@ And that's it!
 
 ![](/images/pedalboard/IMG_8003.JPEG)
 
-A great pedalboard for £9 (not counting the £100 I spent on tools. tools are an investment, not an expense)
+A great pedalboard for £9 (not counting the £80 I spent on tools. tools are an investment, not an expense)
 
 and only one injury (opening the packet of right-anged brackets with an exacto knife)
 
