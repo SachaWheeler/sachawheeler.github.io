@@ -2,7 +2,7 @@
 layout: project
 title: Guitar pedal board
 image: /images/pedalboard/cover.jpg
-categories: [woodwork]
+categories: [music, woodwork]
 summary: A pedal board made from a cheap Ikea crate
 ---
 
@@ -13,7 +13,7 @@ breaking them down every time I use them. And I didn't want to spend any money.
 
 Enter Ikea's KNAGGLIG box (£9)
 
-[![KNAGGLIG](/images/pedalboard/knagglig-box-pine.jpg)](https://www.ikea.com/gb/en/products/small-storage-organisers/storage-boxes-baskets/knagglig-box-pine-art-70292359/)
+[![KNAGGLIG](/images/pedalboard/knagglig-box-pine.jpg)](https://www.ikea.com/gb/en/products/small-storage-organisers/storage-boxes-baskets/knagglig-box-pine-art-70292359/){:target="_blank"}
 
 The sides of the the box were the right width, so I ordered it
 
