@@ -88,6 +88,10 @@ Time to add the power supply underneath
 
 ![](/images/pedalboard/IMG_8002.JPG)
 
+and some soft feet for it to slide on
+
+![](/images/pedalboard/IMG_8008.jpeg)
+
 And that's it!
 
 
@@ -100,3 +104,17 @@ A great pedalboard for £9 (not counting the £80 I spent on tools. tools are an
 and only one injury (opening the packet of right-anged brackets with an exacto knife)
 
 ![](/images/pedalboard/IMG_8004.JPG)
+
+## Final thoughts
+
+I might end up adding jacks for the input and output cables, and wiring
+a power switch to the side or back probably makes sense. None of that is required, though.
+It's so much nicer to be able to call on effects without breaking your train of thought
+and have them all be properly powered.
+
+This will probably stay as it is until I fall in love with another pedal, which
+doesn't happen that often these days.
+
+That said, I'm repairing a (really nice) compressor pedal that I fried by plugging
+an 18v supply into it (the reason I decided to build this board in the first place)
+and if I succeed, I'm not sure where it's going to go...
