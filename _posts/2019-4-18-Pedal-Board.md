@@ -3,10 +3,10 @@ layout: project
 title: Guitar pedal board
 image: /images/pedalboard/cover.jpg
 categories: [music, woodwork]
-summary: A pedal board made from a cheap Ikea crate
+summary: A pedal board made from an Ikea KNAGGLIG crate
 ---
 
-## I wanted a pedal board
+(*It's technically for mandolins...*)
 
 I'd spent too long with my pedals in a bucket, setting them up (replacing batterires etc) and
 breaking them down every time I use them. And I didn't want to spend any money.
