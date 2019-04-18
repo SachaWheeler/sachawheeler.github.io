@@ -84,7 +84,7 @@ and I do the same for the back row
 ![](/images/pedalboard/IMG_7998.JPEG)
 ![](/images/pedalboard/IMG_7999.JPEG)
 
-Time to add the power supply underneath
+Time to add the power supply underneath, also by velcro (for the time being)
 
 ![](/images/pedalboard/IMG_8002.JPG)
 
@@ -99,7 +99,8 @@ And that's it!
 
 ![](/images/pedalboard/IMG_8003.JPEG)
 
-A great pedalboard for £9 (not counting the £80 I spent on tools. tools are an investment, not an expense)
+A great pedalboard for £9 in wood and £11 in paint (not counting the £80 I
+spent on tools - tools are an investment, not an expense)
 
 and only one injury (opening the packet of right-anged brackets with an exacto knife)
 
@@ -116,5 +117,5 @@ This will probably stay as it is until I fall in love with another pedal, which
 doesn't happen that often these days.
 
 That said, I'm repairing a (really nice) compressor pedal that I fried by plugging
-an 18v supply into it (the reason I decided to build this board in the first place)
+an errant  18v supply into it (the reason I decided to build this board in the first place)
 and if I succeed, I'm not sure where it's going to go...
