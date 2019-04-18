@@ -3,7 +3,7 @@ layout: project
 title: Spectrum Analyser
 image: /images/spectrum_analyser/cover.png
 categories: [electronics]
-summary: An Arduino powered spectrum analyser (graphic equalizer)
+summary: An Arduino-powered audio spectrum analyser
 ---
 
 I found an old, unused [16x32 RGB led matrix](https://www.adafruit.com/product/420){:target="_blank"} which I bought on a whim years ago and
