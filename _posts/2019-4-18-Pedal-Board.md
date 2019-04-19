@@ -97,7 +97,7 @@ And that's it!
 
 ## The finished product
 
-![](/images/pedalboard/IMG_8003.JPEG)
+![](/images/pedalboard/IMG_8010.JPG)
 
 A great pedalboard for £9 in wood and £11 in paint (not counting the £80 I
 spent on tools - tools are an investment, not an expense)
@@ -105,17 +105,3 @@ spent on tools - tools are an investment, not an expense)
 and only one injury (opening the packet of right-anged brackets with an exacto knife)
 
 ![](/images/pedalboard/IMG_8004.JPG)
-
-## Final thoughts
-
-I might end up adding jacks for the input and output cables, and wiring
-a power switch to the side or back probably makes sense. None of that is required, though.
-It's so much nicer to be able to call on effects without breaking your train of thought
-and have them all be properly powered.
-
-This will probably stay as it is until I fall in love with another pedal, which
-doesn't happen that often these days.
-
-That said, I'm repairing a (really nice) compressor pedal that I fried by plugging
-an errant  18v supply into it (the reason I decided to build this board in the first place)
-and if I succeed, I'm not sure where it's going to go...
