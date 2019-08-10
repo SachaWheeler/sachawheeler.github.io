@@ -3,7 +3,7 @@ layout: project
 title: Funeral Playlist
 image: /images/funeral/cover.png
 categories: [music]
-summary: A playlist for my friends at my (eventual) funeral
+summary: A playlist for my (eventual) funeral
 ---
 
 ![](/images/funeral/title.png)
