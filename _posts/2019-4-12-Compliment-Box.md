@@ -132,7 +132,7 @@ is turned into
 * Hand coding simple animations is fun, but get the orientation right in advance.
 * I used super glue to attach the on/off switch and used too much and
         glued the switch shut, and had to grind it off and replace it
-        the night before I was gong to give the gift.
+        the night before I was going to give the gift.
 * I attached the battery pack inside and soldered/glued everything in place
         before closing the container and discovering that it wouldn't,
         requiring me to replace the battery pack with some smaller battery
