@@ -23,3 +23,7 @@ favourite songs. Do likewise, whether or not you care what they hear at your fun
 
 # It's currently over 7 hours long
 So come early...
+
+## Some of these songs are pretty cheesy...
+
+That seems more like a you-problem, than a me-problem.
