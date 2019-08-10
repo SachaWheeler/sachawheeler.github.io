@@ -6,15 +6,16 @@ categories: [electronics]
 summary: An Arduino-powered, beating heart in a box
 ---
 
+I wanted to build a box which, when a button is pressed, it gives
+a compliment, and I had a friend who had a birthday coming up...
+
+( the original idea was a mirror which notices your haircut
+and compliments you on it, but I realised thats more
+HAL-9000 than Arduino, but it's on the list of things to build next )
+
 ![](/images/heart/title.gif)
 
-# A device which gives compliments
-
-I wanted to build a box which, when we pressed a button, it gives a compliment.
-
-![](/images/heart/IMG_7899.JPG)
-
-It was for a friend and I didn't give myself enough time to do something clever
+I didn't give myself enough time to do something clever
 so I hand-coded a bunch of animations for an 8x8 led matrix
 
 ```cpp
@@ -76,21 +77,14 @@ for image in IMAGES:
     initial = []
     output = []
     x += 1
-    # if x > 5: break
-    # print(image)
     for row in image:
-        # print(row)
         initial.append(list(row))
-    # print(output)
     rotated_output = zip(*initial[::-1])
     rotated_output = [list(row) for row in rotated_output]
 
-    # print(rotated_output)
     trimmed_output = rotated_output[1::]  # remove the row of Bs
     [row.insert(0, "B") for row in trimmed_output]
-    # pprint.pprint(trimmed_output)
     output = [''.join(row) for row in trimmed_output]
-    # pprint.pprint(output)
     print("}, {")
     for row in output:
         print("  %s," % row)
