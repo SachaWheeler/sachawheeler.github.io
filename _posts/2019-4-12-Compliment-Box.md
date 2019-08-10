@@ -39,10 +39,38 @@ which is cycles through at the push of a button
 ![](/images/heart/IMG_7900.JPG)
 
 
-That was fun, until I realised I'd rotated the matrix 90 degrees after coding hundreds of frames by hand, so
-I wrote a python programme to rotate the frames to their correct orienttion.
+That was fun, until I realised I couldn't fit the led matrix into the box
+I was planning to use, and would have to rotate it 90 degrees after
+coding hundreds of frames by hand, so
+I wrote a python programme to rotate the frames to their new orienttion.
 
 ```python
+
+IMAGES = [
+[
+  "B00000000",
+  "B01100110",
+  "B01100110",
+  "B01100110",
+  "B00111100",
+  "B00011000",
+  "B00011000",
+  "B00011000",
+  "B00011000"
+],[
+  "B00011000"
+  ...
+],[
+  "B00000000",
+  "B11001100",
+  "B11001100",
+  "B11001100",
+  "B01111001",
+  "B00110001",
+  "B00110001",
+  "B00110000"
+]]
+
 x=0
 for image in IMAGES:
     initial = []
@@ -68,11 +96,50 @@ for image in IMAGES:
         print("  %s," % row)
 ```
 
+The end result being, for example, the bitmap for the frame "Y" in the
+final message:
+
+```json
+  "B00000000",
+  "B01100110",
+  "B01100110",
+  "B01100110",
+  "B00111100",
+  "B00011000",
+  "B00011000",
+  "B00011000"
+```
+is turned into
+```json
+  "B00000000,
+  "B00001110,
+  "B00011110,
+  "B11110000,
+  "B11110000,
+  "B00011110,
+  "B00001110,
+  "B00000000"
+```
+
 ![](/images/heart/IMG_7902.JPG)
 
 ## The finished product
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Utl96o-0_tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Learnings
+
+* Hand coding simple animations is fun, but get the orientation right in advance.
+* I used super glue to attach the on/off switch and used too much and
+        glued the switch shut, and had to grind it off and replace it
+        the night before I was gong to give the gift.
+* I attached the battery pack inside and soldered/glued everything in place
+        before closing the container and discovering that it wouldn't,
+        requiring me to replace the battery pack with some smaller battery
+        terminals.
+* I left it on overnight and the arduino had completely drained the 9v battery. No time to change
+this one, but I've since started using systems that power the device down after a period of time.
+* More fun than buying a gift.
 
 ## The code
 The code is [here](https://github.com/SachaWheeler/heart-box){:target="_blank"}
