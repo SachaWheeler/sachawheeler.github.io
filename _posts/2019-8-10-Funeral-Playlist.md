@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Funeral Playlist
-image: /images/funeral/title.png
+image: /images/funeral/cover.png
 categories: [music]
 summary: A playlist for my friends at my (eventual) funeral
 ---
