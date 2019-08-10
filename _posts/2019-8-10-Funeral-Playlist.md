@@ -21,4 +21,5 @@ Assuming there's no hurry for this, I'll add to it over time.
 That was a really fun way of spending a weekend, listening to all of one's
 favourite songs. Do likewise, whether or not you care what they hear at your funeral.
 
-
+# It's currently over 7 hours long
+So come early...
