@@ -40,7 +40,7 @@ which is cycles through at the push of a button
 
 
 That was fun, until I realised I'd rotated the matrix 90 degrees after coding hundreds of frames by hand, so
-I wrote a pyth0n programme to rotate the frames to their correct orienttion.
+I wrote a python programme to rotate the frames to their correct orienttion.
 
 ```python
 x=0
