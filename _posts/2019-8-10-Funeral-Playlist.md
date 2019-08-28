@@ -21,8 +21,11 @@ Assuming there's no hurry for this, I'll add to it over time.
 That was a really fun way of spending a weekend, listening to all of one's
 favourite songs. Do likewise, whether or not you care what they hear at your funeral.
 
-## It's currently over 7 hours long
-So come early...
+Spending a day to determine that *Rock Steady* is my favourite Aretha Franklin song seems
+worth it alone.
+
+## It's currently over 5 hours long
+It used to be over 7 hours.
 
 ## Some of these songs are pretty cheesy...
 
