@@ -24,9 +24,6 @@ favourite songs. Do likewise, whether or not you care what they hear at your fun
 Spending a day to determine that *Rock Steady* is my favourite Aretha Franklin song seems
 worth it alone.
 
-## It's currently over 5 hours long
-It used to be over 7 hours.
-
-## Some of these songs are pretty cheesy...
-
-That seems more like a you-problem, than a me-problem.
+## It's currently over 5 hours long!
+It used to be over 7 hours, but I decided it wasn't necessary to have all of
+*Exile on Main Street* in it.
